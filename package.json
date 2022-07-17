@@ -1,8 +1,8 @@
 {
-  "name": "DVideo",
+  "name": "CCTV-Dapp",
   "version": "0.1.0",
   "description": "Decentralized Social Media",
-  "author": "Dapp University",
+  "author": "The Silicon Valley",
   "homepage": ".",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.7.0",
