@@ -2,14 +2,14 @@ require('babel-register');
 require('babel-polyfill');
 require('dotenv').config();
 
-const HDWalletProvider = require('truffle-hdwallet-provider-privkey');
-const privateKeys = process.env.PRIVATE_KEYS
+//const HDWalletProvider = require('truffle-hdwallet-provider-privkey');
+//const privateKeys = process.env.PRIVATE_KEYS
 
 //var HDWalletProvider = require("truffle-hdwallet-provider");
-//const MNEMONIC = 'couch legend panda update click bind actor what what false verify shoe';
+//const MNEMONIC = '...';
 
  //const HDWalletProvider = require('@truffle/hdwallet-provider');
- //const MNEMONIC = 'couch legend panda update click bind actor what what false verify shoe';
+ //const MNEMONIC = '...';
 module.exports = {
   networks: {
     development: {
